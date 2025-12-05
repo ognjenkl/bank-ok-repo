@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  # Add your services here when needed
+  # example:
+  # web:
+  #   build: .
+  #   ports:
+  #     - "8080:8080"
