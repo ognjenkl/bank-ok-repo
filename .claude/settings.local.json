@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /s /b \"*docker*compose*\" \"*compose*\")",
+      "Bash(java:*)",
+      "Bash(mvnw.cmd clean package:*)",
+      "Bash(bash mvnw clean package:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
